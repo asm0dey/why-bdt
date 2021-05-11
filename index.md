@@ -25,7 +25,7 @@ footer {
 </style>
 
 # Big Data Tools:
-# Holy Grail of Deveoper Productivity
+# Holy Grail of Developer Productivity
 
 Pasha Finkelshteyn, JetBrains
 
